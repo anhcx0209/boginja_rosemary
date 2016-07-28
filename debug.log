@@ -1,0 +1,51 @@
+21.07.2016 12:57:37 Remote server returned error response 404 Not Found
+21.07.2016 12:57:37 Failed to import Media: &quot;က (1)&quot;. Message: Remote server returned error response 404 Not Found
+21.07.2016 12:58:48 Remote server returned error response 404 Not Found
+21.07.2016 12:58:48 Failed to import Media: &quot;က (1)&quot;. Message: Remote server returned error response 404 Not Found
+21.07.2016 12:58:49 Remote server returned error response 404 Not Found
+21.07.2016 12:58:49 Failed to import Media: &quot;က&quot;. Message: Remote server returned error response 404 Not Found
+21.07.2016 12:59:46 AJAX handler for importer
+21.07.2016 12:59:46 Dispatch action: import_tpl
+21.07.2016 12:59:46 Import Templates Options
+21.07.2016 12:59:46 AJAX handler finished - send results to client
+21.07.2016 12:59:47 AJAX handler for importer
+21.07.2016 12:59:47 Dispatch action: import_widgets
+21.07.2016 12:59:47 Import Widgets
+21.07.2016 12:59:47 AJAX handler finished - send results to client
+21.07.2016 12:59:48 AJAX handler for importer
+21.07.2016 12:59:48 Dispatch action: import_revslider
+21.07.2016 12:59:48 Import Revolution sliders
+21.07.2016 12:59:48 Process slider &quot;homepage.zip&quot;
+21.07.2016 12:59:52 Slider &quot;homepage.zip&quot; imported
+21.07.2016 12:59:52 AJAX handler finished - send results to client
+21.07.2016 12:59:53 AJAX handler for importer
+21.07.2016 12:59:53 Dispatch action: import_revslider
+21.07.2016 12:59:53 Import Revolution sliders
+21.07.2016 12:59:53 Process slider &quot;purple.zip&quot;
+21.07.2016 12:59:57 Slider &quot;purple.zip&quot; imported
+21.07.2016 12:59:57 AJAX handler finished - send results to client
+21.07.2016 12:59:58 AJAX handler for importer
+21.07.2016 12:59:58 Dispatch action: import_revslider
+21.07.2016 12:59:58 Import Revolution sliders
+21.07.2016 12:59:58 Process slider &quot;homepagered.zip&quot;
+21.07.2016 13:00:02 Slider &quot;homepagered.zip&quot; imported
+21.07.2016 13:00:02 AJAX handler finished - send results to client
+21.07.2016 13:00:02 AJAX handler for importer
+21.07.2016 13:00:02 Dispatch action: import_revslider
+21.07.2016 13:00:02 Import Revolution sliders
+21.07.2016 13:00:02 Process slider &quot;homepage2.zip&quot;
+21.07.2016 13:00:08 Slider &quot;homepage2.zip&quot; imported
+21.07.2016 13:00:08 AJAX handler finished - send results to client
+21.07.2016 13:00:09 AJAX handler for importer
+21.07.2016 13:00:09 Dispatch action: import_essgrids
+21.07.2016 13:00:09 Import Essential Grid
+21.07.2016 13:00:09 Process file &quot;ess_grid.json&quot;:
+21.07.2016 13:00:09 Essential Grid import complete
+21.07.2016 13:00:09 AJAX handler finished - send results to client
+21.07.2016 13:00:10 AJAX handler for importer
+21.07.2016 13:00:10 Dispatch action: import_booking
+21.07.2016 13:00:10 Import dump of &quot;Booking Calendar&quot;
+21.07.2016 13:00:10 AJAX handler finished - send results to client
+21.07.2016 13:00:11 AJAX handler for importer
+21.07.2016 13:00:11 Dispatch action: import_end
+21.07.2016 13:00:11 AJAX handler finished - send results to client

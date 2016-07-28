@@ -1,0 +1,25 @@
+﻿Version 1.4 – Update
+	- Updated tgmpa to their latest versions
+	- Fixed some style issue.
+	- Updated Revolution Slider and other plugins to their latest versions
+	- Google Map's issue fixed
+
+Version 1.3 – Update
+	- Updated Visual Composer and other plugins to their latest versions
+
+Version 1.2.2 – Update
+	- Fixed translation issue
+
+Version 1.2.1 – Update
+	- WooCommerce compatibility added
+
+Version 1.2 – Update
+	- Color scheme customizer added
+	- One more color scheme added
+
+Version 1.1 – Update
+	- a new color scheme added
+	- one-click demo-data install added
+
+Version 1.0
+	– Release
